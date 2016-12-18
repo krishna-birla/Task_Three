@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Three</string>
+    <string name="button_next">Next</string>
+    <string name="textView">Second Activity</string>
+</resources>
